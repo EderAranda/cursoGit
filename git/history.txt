@@ -1,1 +1,4 @@
-Hola mucho gusto, mi nombre es Eder
+Hola mucho gusto, mi nombre es Eder.
+
+Tengo 23 años y soy Ingeniero Industrial.
+
